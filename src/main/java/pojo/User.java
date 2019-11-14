@@ -19,6 +19,8 @@ public class User implements Serializable{
     private String telephone; // 联系电话
     private Integer age;//新添加的
 
+    private  String  jsu;
+
     public Integer getAge() {
         return age;
     }
