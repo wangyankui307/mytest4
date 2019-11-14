@@ -16,7 +16,7 @@ public class User implements Serializable{
     private String password; // 密码
     private String remark; // 备注
     private String station; // 状态
-    private String telephone; // 联系电话
+
 
 
     public Integer getAge() {
