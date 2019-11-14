@@ -15,7 +15,7 @@ public class User implements Serializable{
     private String username; // 用户名，唯一
     private String password; // 密码
     private String remark; // 备注
-    private String station; // 状态
+
 
 
 
